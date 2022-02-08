@@ -1,0 +1,28 @@
+  <div>
+      
+    <h1>newarrival</h1>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4"  v-for="newarival in newarival" :key="newarival.id">
+                <div class="card">
+                    <div class="card-header">
+                        <img src="https://cylbhdlqsmhxgbeghict.supabase.in/storage/v1/object/sign/foto-produk/hoodie/download (2).jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJmb3RvLXByb2R1ay9ob29kaWUvZG93bmxvYWQgKDIpLmpwZWciLCJpYXQiOjE2NDMwMDI5NTEsImV4cCI6MTk1ODM2Mjk1MX0.-zSEE8eFBI8fc6ilzubZ66RvVLSTnzs2nOL48ib4FE0"  alt="">
+                    </div>
+                    <div class="card-body">
+                        <h4>nama</h4>
+                        <h4>harga</h4>
+                        <button>beli</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+  </div>
+  https://cylbhdlqsmhxgbeghict.supabase.in/storage/v1/object/sign/foto-produk/jersey/download (1).jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJmb3RvLXByb2R1ay9qZXJzZXkvZG93bmxvYWQgKDEpLmpwZWciLCJpYXQiOjE2NDMwMDI3MzEsImV4cCI6MTk1ODM2MjczMX0.KCfa2AIUVIUXf3C0H0-ikyfKm5Rnp8055fV4l7qro44
+  
+
+
+  https://cylbhdlqsmhxgbeghict.supabase.in/storage/v1/object/sign/foto-produk/kaos/download.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJmb3RvLXByb2R1ay9rYW9zL2Rvd25sb2FkLmpwZWciLCJpYXQiOjE2NDMwMDIwMjUsImV4cCI6MTk1ODM2MjAyNX0.B9WBVGHBH_CmbdXPHVBeTf62PSsJmqIe-VBzrknhRtI
